@@ -76,7 +76,7 @@ The project includes the necessary database script and database files (`.mdf` an
 1. **Clone the repository:** 
 
    ```plaintext
-   git clone https://github.com/Ayoub-Outrgua/User-Management-App
+   git clone https://github.com/Ayoub-Outrgua/User-Management-App.git
 2. **Open the project in Visual Studio.**
 
 3. **Set Up the Database:**
